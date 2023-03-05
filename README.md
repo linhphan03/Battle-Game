@@ -1,4 +1,4 @@
-# BattleGame
+# Battle Game
 
 1. Description:
 - This is a computer-version Battle Game between two races, Terran and Protoss, playing through console
