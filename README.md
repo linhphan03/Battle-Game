@@ -1,6 +1,6 @@
 # Battle Game
 
-1. Description:
+## Description:
 - This is a computer-version Battle Game between two races, Terran and Protoss, playing through console
 - Each team has the following features:
   + Hit Points (HP): If HP is 0, the soldier will be killed
@@ -54,7 +54,7 @@
 - Each team take turn to attack until one does not have any solder left.
 - During the battle, report each attack turn to console
 
-2. Data Structure and Concepts used:
+## Data Structure and Concepts used:
 - Object - Oriented Programming: Inheritance, Polymorphism, Abstract and Interface
   + Create superclass for Races (ChungToc.java), and subclasses "Terran" and "Protoss" of races. 
   + Terran has subclasses Marine, Firebat, and Wraith, which are the type of soldiers. While Protoss has Zealot, Dragon and Scout subclasses
@@ -63,7 +63,7 @@
 - Move Mode and Type: use ENUM to create constants
 - Store team members: ArrayList
 
-3. Future improvement:
+## Future improvement:
 - Create a GUI for the game
 
   
